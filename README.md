@@ -22,4 +22,6 @@ Every other end point returns:
 
 ## How to run
 
-- Clone the repo ``
+- Clone the repo `https://github.com/ivivanov18/SimpleRESTful_JSON_API`
+- Run `npm index.js`
+- Use postman or curl to test the endpoints
